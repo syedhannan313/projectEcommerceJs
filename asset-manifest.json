@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectEcommerceJs/static/css/main.849fe8d2.css",
+    "main.js": "/projectEcommerceJs/static/js/main.d8e02b58.js",
+    "static/media/banner-img.png": "/projectEcommerceJs/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/projectEcommerceJs/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/projectEcommerceJs/index.html",
+    "main.849fe8d2.css.map": "/projectEcommerceJs/static/css/main.849fe8d2.css.map",
+    "main.d8e02b58.js.map": "/projectEcommerceJs/static/js/main.d8e02b58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849fe8d2.css",
+    "static/js/main.d8e02b58.js"
+  ]
+}
